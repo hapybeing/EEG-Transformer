@@ -1,5 +1,5 @@
 # EEG-Transformer: Topographical Decoding of Spatial Visual Stimuli
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19629397.svg)](https://doi.org/10.5281/zenodo.19629397) 
 An independent research project focused on treating raw, high-dimensional EEG time-series as sequential tokens for self-attention mechanisms. Developed and executed entirely via a tablet-first cloud workflow.
 
 ## Overview
@@ -26,7 +26,7 @@ This project was developed under a constrained, mobile-first research paradigm:
 
 ## Research Paper
 The full technical report, including the mathematical formulation of the InfoNCE scaling roadmap, is available on **Zenodo**:
-[INSERT YOUR ZENODO DOI LINK HERE]
+[https://doi.org/10.5281/zenodo.19629397]
 
 ## License
 MIT
